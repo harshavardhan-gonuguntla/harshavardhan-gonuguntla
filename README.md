@@ -1,16 +1,24 @@
-## Hi there 👋
 
-<!--
-**harshavardhan-gonuguntla/harshavardhan-gonuguntla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Harsha Vardhan 👋
 
-Here are some ideas to get you started:
+🔧 Cloud Support Engineer (L1) | Linux & AWS Enthusiast
+📍 Bengaluru, Karnataka
+🎓 B.E Computer Science — DSATM (2025)
+🌐 IELTS Band 7.0
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Linux Administration (Ubuntu, systemctl, bash scripting)
+- AWS (EC2, VPC, IAM, Security Groups)
+- Networking (TCP/IP, DNS, SSH)
+- Troubleshooting & Log Analysis
+
+## 📂 Projects
+- **linux-sysadmin-scripts** — Disk monitoring and server admin scripts
+  
+## 🎯 Currently Learning
+- AWS Solutions Architect
+- Cloud Security fundamentals
+
+## 📫 Reach me
+- LinkedIn: linkedin.com/in/gonuguntla-harshavardhan
+- Email: h.v.gonuguntla@gmail.com
